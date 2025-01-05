@@ -1,7 +1,7 @@
 - 👋 Hi, I’m RAM KUMAR R S
 - 👀 I’m interested in Software Developer
 - 🌱 I’m currently learning Angular
-- 📫 How to reach me ramlokesh809@gmail.com || 9566824244
+- 📫 How to reach me ramlokesh809@gmail.com 
 
 <!---
 ram02-kumar/ram02-kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
